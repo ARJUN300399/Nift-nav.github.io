@@ -416,6 +416,7 @@ p {
 }
 #about .col-right {
 	width: 100%;
+    
 }
 #about .col-right h2 {
 	font-size: 1.8rem;
@@ -713,5 +714,8 @@ p {
     border-color: crimson;
 }
 
-
+iframe {
+    width: 500px; /* adjust to your needs */
+    max-width: 100%; /* to make it responsive */
+  }
 /* End  Media Query For Desktop */
